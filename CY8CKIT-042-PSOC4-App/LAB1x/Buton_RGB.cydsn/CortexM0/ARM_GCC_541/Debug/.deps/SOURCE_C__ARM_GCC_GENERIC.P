@@ -1,0 +1,54 @@
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/CortexM0/ARM_GCC_541/Debug/main.o : C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/BLUE.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/BLUE_aliases.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/CyFlash.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/GREEN.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/GREEN_aliases.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/RED.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/RED_aliases.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/buton.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/buton_aliases.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cmsis_armcc.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cmsis_compiler.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cmsis_gcc.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/core_cm0.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cyPm.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/project.h C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/main.c 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/BLUE.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/BLUE_aliases.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/GREEN.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/GREEN_aliases.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/RED.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/RED_aliases.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/buton.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/buton_aliases.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cmsis_compiler.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/Users/user/Documents/PSoC\ Creator/LAB1x/Buton_RGB.cydsn/main.c : 
+

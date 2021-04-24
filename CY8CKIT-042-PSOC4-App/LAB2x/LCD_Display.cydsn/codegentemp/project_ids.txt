@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|0b98fcf6-e0e1-45e9-a605-c09bddc41c05
+C:\Users\user\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|84f508ff-1d5d-4c0b-8631-66f7bbf89c08
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|60899150-3688-43c8-b108-0e5d735acc19
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|9019a4f3-0e46-4a2d-aca5-32f0c05937ef
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|6a7fb553-4b8e-4453-a49e-9b7b5e793b33
+C:\Users\user\Documents\PSoC Creator\LAB2x\UART_serialcom.cydsn\UART_serialcom.cyprj|08c864fc-214f-4698-a4af-cc3e9b03445a
+C:\Users\user\Documents\PSoC Creator\LAB2x\karasimsek_1.cydsn\karasimsek_1.cyprj|4bfbf77e-8cdf-4a5e-8ca7-87f6f0106947
+C:\Users\user\Documents\PSoC Creator\LAB2x\karasimsek_2.cydsn\karasimsek_2.cyprj|467eeeb3-daec-4e06-9458-89e73e04667d
+C:\Users\user\Documents\PSoC Creator\LAB2x\Seven_Segment.cydsn\Seven_Segment.cyprj|911ef422-1008-4b2c-b85f-fa17898a8e9e
+C:\Users\user\Documents\PSoC Creator\LAB2x\LCD_Display.cydsn\LCD_Display.cyprj|588fc2c9-6ed2-4614-b0d6-709f12b713fe

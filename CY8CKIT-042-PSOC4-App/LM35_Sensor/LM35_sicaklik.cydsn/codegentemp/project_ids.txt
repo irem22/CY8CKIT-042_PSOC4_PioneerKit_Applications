@@ -1,0 +1,6 @@
+C:\Users\user\Documents\PSoC Creator\LM35\LM35_sicaklik.cydsn\LM35_sicaklik.cyprj|f8e82d8b-b6c6-459d-b822-b13a59438ef6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|f7d6fc88-2371-472e-9084-819eb3d90fbb
+C:\Users\user\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|04871983-c55f-4207-a0c2-602c7c0c02ed
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b322d7e8-a68e-4362-a133-be8a23bf63ce
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|3a3732b0-6388-4d63-8f8d-d3e34c2bda70
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b7807650-7548-440e-8270-e7dc17d4006f

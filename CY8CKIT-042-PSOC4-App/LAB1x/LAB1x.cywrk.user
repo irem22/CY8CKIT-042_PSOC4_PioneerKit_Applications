@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="LAB1x\Buton_RGB">
+<ExpandedNodeIds>
+<v>LAB1x</v>
+<v>LAB1x\Buton_RGB\TopDesign</v>
+<v>LAB1x\Buton_RGB\Buton_RGB.cydwr</v>
+<v>LAB1x\Buton_RGB\Buton_RGB.cydwr\Pins</v>
+<v>LAB1x\Buton_RGB\Buton_RGB.cydwr\Analog</v>
+<v>LAB1x\Buton_RGB\Buton_RGB.cydwr\Clocks</v>
+<v>LAB1x\Buton_RGB\Buton_RGB.cydwr\Interrupts</v>
+<v>LAB1x\Buton_RGB\Buton_RGB.cydwr\System</v>
+<v>LAB1x\Buton_RGB\Buton_RGB.cydwr\Directives</v>
+<v>LAB1x\Buton_RGB\Buton_RGB.cydwr\Flash Security</v>
+<v>LAB1x\Buton_RGB\Header Files</v>
+<v>LAB1x\Buton_RGB\Header Files\cyapicallbacks.h</v>
+<v>LAB1x\Buton_RGB\Source Files</v>
+<v>LAB1x\Buton_RGB\Source Files\main.c</v>
+<v>LAB1x\Buton_RGB\Generated_Source</v>
+<v>LAB1x\Buton_RGB\Generated_Source\PSoC4</v>
+<v>LAB1x\Led_Buton_Kontrol\TopDesign</v>
+<v>LAB1x\Led_Buton_Kontrol\Led_Buton_Kontrol.cydwr</v>
+<v>LAB1x\Led_Buton_Kontrol\Led_Buton_Kontrol.cydwr\Pins</v>
+<v>LAB1x\Led_Buton_Kontrol\Led_Buton_Kontrol.cydwr\Analog</v>
+<v>LAB1x\Led_Buton_Kontrol\Led_Buton_Kontrol.cydwr\Clocks</v>
+<v>LAB1x\Led_Buton_Kontrol\Led_Buton_Kontrol.cydwr\Interrupts</v>
+<v>LAB1x\Led_Buton_Kontrol\Led_Buton_Kontrol.cydwr\System</v>
+<v>LAB1x\Led_Buton_Kontrol\Led_Buton_Kontrol.cydwr\Directives</v>
+<v>LAB1x\Led_Buton_Kontrol\Led_Buton_Kontrol.cydwr\Flash Security</v>
+<v>LAB1x\Led_Buton_Kontrol\Header Files</v>
+<v>LAB1x\Led_Buton_Kontrol\Header Files\cyapicallbacks.h</v>
+<v>LAB1x\Led_Buton_Kontrol\Source Files</v>
+<v>LAB1x\Led_Buton_Kontrol\Source Files\main.c</v>
+<v>LAB1x\Led_Buton_Kontrol\Generated_Source</v>
+<v>LAB1x\Led_Buton_Kontrol\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LAB1x</v>
+<v>LAB1x\Buton_RGB</v>
+<v>LAB1x\Led_Buton_Kontrol</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LAB1x</v>
+<v>LAB1x\Buton_RGB</v>
+<v>LAB1x\Buton_RGB\TopDesign</v>
+<v>LAB1x\Buton_RGB\TopDesign\TopDesign.cysch</v>
+<v>LAB1x\Led_Buton_Kontrol</v>
+<v>LAB1x\Led_Buton_Kontrol\TopDesign</v>
+<v>LAB1x\Led_Buton_Kontrol\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LAB1x</v>
+<v>LAB1x\Buton_RGB</v>
+<v>LAB1x\Buton_RGB\TopDesign</v>
+<v>LAB1x\Buton_RGB\TopDesign\TopDesign.cysch</v>
+<v>LAB1x\Led_Buton_Kontrol</v>
+<v>LAB1x\Led_Buton_Kontrol\TopDesign</v>
+<v>LAB1x\Led_Buton_Kontrol\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LAB1x</v>
+<v>LAB1x\Buton_RGB</v>
+<v>LAB1x\Buton_RGB\CortexM0</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\BLUE.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\BLUE_PM.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\buton.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\buton_PM.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\GREEN.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\GREEN_PM.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\RED.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\RED_PM.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Buton_RGB.elf</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Buton_RGB.hex</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Buton_RGB.map</v>
+<v>LAB1x\Buton_RGB\Buton_RGB.gpdsc</v>
+<v>LAB1x\Buton_RGB\Buton_RGB.rpt</v>
+<v>LAB1x\Buton_RGB\Buton_RGB_timing.html</v>
+<v>LAB1x\Led_Buton_Kontrol</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\buton.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\buton_PM.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\led.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\led_PM.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Led_Buton_Kontrol.elf</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Led_Buton_Kontrol.hex</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Led_Buton_Kontrol.map</v>
+<v>LAB1x\Led_Buton_Kontrol\Led_Buton_Kontrol.gpdsc</v>
+<v>LAB1x\Led_Buton_Kontrol\Led_Buton_Kontrol.rpt</v>
+<v>LAB1x\Led_Buton_Kontrol\Led_Buton_Kontrol_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LAB1x</v>
+<v>LAB1x\Buton_RGB</v>
+<v>LAB1x\Buton_RGB\CortexM0</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\BLUE.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\BLUE_PM.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\buton.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\buton_PM.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\GREEN.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\GREEN_PM.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\RED.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Listing Files\RED_PM.lst</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Buton_RGB.elf</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Buton_RGB.hex</v>
+<v>LAB1x\Buton_RGB\CortexM0\ARM_GCC_541\Debug\Buton_RGB.map</v>
+<v>LAB1x\Buton_RGB\Buton_RGB.gpdsc</v>
+<v>LAB1x\Buton_RGB\Buton_RGB.rpt</v>
+<v>LAB1x\Buton_RGB\Buton_RGB_timing.html</v>
+<v>LAB1x\Led_Buton_Kontrol</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug</v>
+<v>LAB1x\Led_Buton_Kontrol\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LAB1x</v>
+<v>LAB1x\Buton_RGB</v>
+<v>LAB1x\Buton_RGB\PSoC 4 Architecture TRM</v>
+<v>LAB1x\Buton_RGB\PSoC 4200 Family Datasheet</v>
+<v>LAB1x\Buton_RGB\System Reference Guides</v>
+<v>LAB1x\Buton_RGB\System Reference Guides\cy_boot_v6_0</v>
+<v>LAB1x\Buton_RGB\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LAB1x\Buton_RGB\cy_pins_v2_20</v>
+<v>LAB1x\Buton_RGB\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LAB1x\Led_Buton_Kontrol</v>
+<v>LAB1x\Led_Buton_Kontrol\PSoC 4 Architecture TRM</v>
+<v>LAB1x\Led_Buton_Kontrol\PSoC 4200 Family Datasheet</v>
+<v>LAB1x\Led_Buton_Kontrol\System Reference Guides</v>
+<v>LAB1x\Led_Buton_Kontrol\System Reference Guides\cy_boot_v6_0</v>
+<v>LAB1x\Led_Buton_Kontrol\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LAB1x\Led_Buton_Kontrol\cy_pins_v2_20</v>
+<v>LAB1x\Led_Buton_Kontrol\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LAB1x</v>
+<v>LAB1x\Buton_RGB</v>
+<v>LAB1x\Buton_RGB\PSoC 4 Architecture TRM</v>
+<v>LAB1x\Buton_RGB\PSoC 4200 Family Datasheet</v>
+<v>LAB1x\Buton_RGB\System Reference Guides</v>
+<v>LAB1x\Buton_RGB\System Reference Guides\cy_boot_v6_0</v>
+<v>LAB1x\Buton_RGB\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LAB1x\Buton_RGB\cy_pins_v2_20</v>
+<v>LAB1x\Buton_RGB\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LAB1x\Led_Buton_Kontrol</v>
+<v>LAB1x\Led_Buton_Kontrol\PSoC 4 Architecture TRM</v>
+<v>LAB1x\Led_Buton_Kontrol\PSoC 4200 Family Datasheet</v>
+<v>LAB1x\Led_Buton_Kontrol\System Reference Guides</v>
+<v>LAB1x\Led_Buton_Kontrol\System Reference Guides\cy_boot_v6_0</v>
+<v>LAB1x\Led_Buton_Kontrol\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LAB1x\Led_Buton_Kontrol\cy_pins_v2_20</v>
+<v>LAB1x\Led_Buton_Kontrol\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Buton_RGB.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Buton_RGB.cydsn\Buton_RGB.cydwr" />
+<name v=".\Buton_RGB.cydsn\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="975, 454" SelectedTabbedMdiWindow="6ebed804-0afa-40ed-a8e6-25f8fd7152f6"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="fa392221-c33c-4643-88b0-ad39269001a7" /><DocumentWindow Key="C:\Users\user\Documents\PSoC Creator\LAB1x\Buton_RGB.cydsn\TopDesign\TopDesign.cysch" Guid="6f6c0d22-c146-4d72-859a-ad76baa64d1d" /><DocumentWindow Key="C:\Users\user\Documents\PSoC Creator\LAB1x\Buton_RGB.cydsn\Buton_RGB.cydwr" Guid="e5337bd6-ee55-47f2-a2cc-a4579cb8f755" /><DocumentWindow Key="C:\Users\user\Documents\PSoC Creator\LAB1x\Buton_RGB.cydsn\main.c" Guid="6ebed804-0afa-40ed-a8e6-25f8fd7152f6" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

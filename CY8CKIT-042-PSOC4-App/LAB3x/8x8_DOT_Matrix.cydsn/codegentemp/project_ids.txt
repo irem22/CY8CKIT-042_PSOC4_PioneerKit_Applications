@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7cc46ab4-bc50-4cbf-929e-1c8dc7a6287c
+C:\Users\user\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|cbb901d8-c2ae-4e56-bb1b-3a6e9dbe06ca
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|c87cc743-7bdd-4c62-af11-4e5848896f14
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|73a8df3f-6851-4975-b5fa-3b0bcce42d2d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|7fe1025a-9649-4e3b-8e61-063c262b9258
+C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn\CYC8KIT-049_led_blink.cyprj|61618d1a-b302-47ed-8cbd-a08ed12c5d19
+C:\Users\user\Desktop\CY8CKIT\LAB3x\8x8_DOT_Matrix.cydsn\8x8_DOT_Matrix.cyprj|1dd3bff2-6f2d-4ceb-9a42-54bcebd45d3a

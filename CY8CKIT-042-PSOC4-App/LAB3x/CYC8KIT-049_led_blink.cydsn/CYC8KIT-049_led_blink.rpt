@@ -1,0 +1,13 @@
+Loading plugins phase: Elapsed time ==> 0s.158ms
+<CYPRESSTAG name="CyDsfit arguments...">
+cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn\CYC8KIT-049_led_blink.cyprj -d CY8C4245AXI-483 -s C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+</CYPRESSTAG>
+<CYPRESSTAG name="Design elaboration results...">
+</CYPRESSTAG>
+Elaboration phase: Elapsed time ==> 0s.533ms
+ADD: pft.M0086: error: Error in component: Bootloadable_1. The referenced Bootloader is invalid. Verify the Bootloader dependency is correct in the Bootloadable Component, then build project. Invalid bootloader hex file. Unable to read the hex file (C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn). The path does not exist.
+ * C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn\TopDesign\TopDesign.cysch (Instance:Bootloadable_1)
+
+ADD: pft.M0086: error: Error in component: Bootloadable_1. The referenced Bootloader is invalid. Verify the Bootloader dependency is correct in the Bootloadable Component, then build project. Invalid bootloader elf file. Unable to read the elf file (C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn). The path does not exist.
+ * C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn\TopDesign\TopDesign.cysch (Instance:Bootloadable_1)
+

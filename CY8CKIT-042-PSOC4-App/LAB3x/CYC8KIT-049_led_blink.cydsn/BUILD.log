@@ -1,0 +1,9 @@
+--------------- Build Started: 04/24/2021 16:43:53 Project: CYC8KIT-049_led_blink, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+cydsfit.exe -.appdatapath "C:\Users\user\AppData\Local\Cypress Semiconductor\PSoC Creator\4.4" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn\CYC8KIT-049_led_blink.cyprj -d CY8C4245AXI-483 -s C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+Elaborating Design...
+ADD: pft.M0086: error: Error in component: Bootloadable_1. The referenced Bootloader is invalid. Verify the Bootloader dependency is correct in the Bootloadable Component, then build project. Invalid bootloader hex file. Unable to read the hex file (C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn). The path does not exist.
+ * C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn\TopDesign\TopDesign.cysch (Instance:Bootloadable_1)
+ADD: pft.M0086: error: Error in component: Bootloadable_1. The referenced Bootloader is invalid. Verify the Bootloader dependency is correct in the Bootloadable Component, then build project. Invalid bootloader elf file. Unable to read the elf file (C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn). The path does not exist.
+ * C:\Users\user\Desktop\CY8CKIT\LAB3x\CYC8KIT-049_led_blink.cydsn\TopDesign\TopDesign.cysch (Instance:Bootloadable_1)
+Error: fit.M0050: The fitter aborted due to errors, please address all errors and rebuild. (App=cydsfit)
+--------------- Build Failed: 04/24/2021 16:43:55 ---------------

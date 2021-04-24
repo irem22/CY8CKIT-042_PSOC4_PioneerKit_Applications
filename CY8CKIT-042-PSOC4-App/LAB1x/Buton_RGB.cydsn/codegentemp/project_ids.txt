@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|356c60c7-1898-4af7-ac3c-2449f591c582
+C:\Users\user\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|a6d85580-0cc3-4c0d-b8be-da89a720a1d4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|c8ef7ce6-26fa-44e0-8c7d-971e2071a63d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|63e19417-1ce8-4bd0-99d2-c5330f5addf9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|5f4efa33-293b-4546-ad84-8c2d7be18c54
+C:\Users\user\Documents\PSoC Creator\LAB1x\Led_Buton_Kontrol.cydsn\Led_Buton_Kontrol.cyprj|95fd10df-c690-4d4b-9fb9-3ea4ed1cee15
+C:\Users\user\Documents\PSoC Creator\LAB1x\Buton_RGB.cydsn\Buton_RGB.cyprj|6c9be576-1f38-4d48-85ac-fda864af44dd
